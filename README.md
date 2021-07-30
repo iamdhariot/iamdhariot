@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamdhariot
 - 👀 I’m interested in ...Mobo app development.
-- 🌱 I’m currently learning ...Flutter
+- 🌱 I’m currently learning ... React Native 
 - 💞️ I’m looking to collaborate on ...any open-source projects.
 - 📫 mail to: iamdhariot@gmail.com
 

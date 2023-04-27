@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @iamdhariot
-- 👀 I’m interested in react react-native and nodejs.
-- 🌱 I’m currently working as a senior software developer
-- 💞️ I’m looking to collaborate on ...any open-source projects.
-- 📫 mail @ iamdhariot@gmail.com
+# Hi there 👋, I'm Dhariot!
 
-<!---
-iamdhariot/iamdhariot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a full stack developer based in Udaipur, India 🇮🇳. My expertise includes React, Android, React Native, Node.js, Express, MySQL, and MSSQL Server. I'm currently learning more about Next.js and MongoDB 📚.
+
+Apart from coding, I have a passion for nature photography 📷 and exploring the world 🌎.
+
+## Social Profiles
+
+👉 Twitter: [@dhariot](https://twitter.com/dhariot)
+
+👉 Instagram: [@dhariot](https://www.instagram.com/dhariot/)
+
+👉 GitHub: [@dhariot](https://github.com/dhariot)
+
+👉 LinkedIn: [dhariot](https://www.linkedin.com/in/dhariot/)
+
+## Open to Work
+
+I'm open to working on open source projects and contributing to the community 🌟. If you're looking for a developer to collaborate with or have a project idea in mind, feel free to reach out to me!
+

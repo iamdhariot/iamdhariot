@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dhariot!
+# Hi there 👋, I'm Dharmendra gameti aka Dhariot!
 
 ## About Me
 
@@ -8,13 +8,13 @@ Apart from coding, I have a passion for nature photography 📷 and exploring th
 
 ## Social Profiles
 
-👉 Twitter: [@dhariot](https://twitter.com/dhariot)
+👉 Twitter: [@iamdhariot](https://twitter.com/iamdhariot)
 
-👉 Instagram: [@dhariot](https://www.instagram.com/dhariot/)
+👉 Instagram: [@iamdhariot](https://www.instagram.com/iamdhariot/)
 
-👉 GitHub: [@dhariot](https://github.com/dhariot)
+👉 GitHub: [@iamdhariot](https://github.com/iamdhariot)
 
-👉 LinkedIn: [dhariot](https://www.linkedin.com/in/dhariot/)
+👉 LinkedIn: [@iamdhariot](https://www.linkedin.com/in/iamdhariot/)
 
 ## Open to Work
 
